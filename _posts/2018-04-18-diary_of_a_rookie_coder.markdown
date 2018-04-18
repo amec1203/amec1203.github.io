@@ -6,7 +6,7 @@ permalink:  diary_of_a_rookie_coder
 ---
 
 
-Full disclosure: this is my first time writing a personal blog post so if you have expectations, I hope they're low! I'm also only 2.5 weeks into coding school, attending part-time, so my experience and insights are limited. Not the best opener, I know, but *if there's one thing I've learned from coding so far, it's that it's okay to be honest about the challenges you face - in fact you can embrace them.*
+Full disclosure: this is my first time writing a personal blog post so if you have expectations, I hope they're low! I'm also only 2.5 weeks into coding school, attending part-time, so my experience and insights are limited. Not the best opener, I know, but *if there's one thing I've learned from coding so far, it's that it's okay to be honest about the challenges you face - in fact, you should embrace them.*
 
 I'm at a place in my life where I am ready to take on a challenge. I've always been the tech savvy person amongst my friends and family, so naturally the computer was a good place to start. I first dabbled with code in my current job when I worked with a wonderful team at Thoughtworks to build a website. I loved the taste and wanted more. I then studied code to prepare for Flatiron's online program, and here I am now. Turns out Learn IDE, the open-source text editor that Flatiron uses, is really a portal to a new dimension!
 
